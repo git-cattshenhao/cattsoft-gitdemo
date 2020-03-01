@@ -20,9 +20,3 @@ develop2
 develop4
 fun()1{
 }
-
-fun()2{
-}
-
-fun()3{
-}
